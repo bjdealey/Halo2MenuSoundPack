@@ -14,7 +14,7 @@
     "deck_ui_misc_08.wav",
     "deck_ui_tile_scroll.wav",
     "pop_sound.wav"
-  ]
+  ],
   "mappings": {
     "deck_ui_achievement_toast.wav": ["teleporter_activate[transport].wav"], // Played when a user unlocks an achievement in a Steam game.
     "deck_ui_bumper_end_02.wav": ["advance[advance].wav"], // Played when attempting to navigate and being unable to move further.
