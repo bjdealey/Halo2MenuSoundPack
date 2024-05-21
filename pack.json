@@ -7,7 +7,7 @@
   "music": false,
   "ignore": [],
   "mappings": {
-    "deck_ui_misc_10.wav": ["cursor1[cursor1].wav"]
+    "deck_ui_misc_10.wav": ["cursor1[cursor1].wav"],
     "deck_ui_navigation.wav": ["cursor1[cursor1].wav"],
     "deck_ui_default_activation.wav": ["forward1[forward1].wav"]
 }
