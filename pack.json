@@ -1,0 +1,10 @@
+{
+  "name": "Halo2MenuSoundsPack",
+  "description": "A sound pack featuring the iconic menu sounds from Halo 2. The audio is sourced directly from the game, providing an immersive and nostalgic experience.",
+  "author": "bjdealey",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
